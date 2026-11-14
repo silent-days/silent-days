@@ -1,16 +1,22 @@
-## Hi there 👋
+ <div align="center">
+  <img src="logo.png" width="100%" alt="silent-days Banner">
+</div>
 
-<!--
-**silent-days/silent-days** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Silent Days 
 
-Here are some ideas to get you started:
+**Cybersecurity Enthusiast | Ethical Hacker | Python Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring cybersecurity, developing security tools, and learning new technologies.
+
+- 🔐 Cybersecurity & Ethical Hacking
+- 🐍 Python Security Tool Development
+- 🐧 Linux & Kali Linux
+- ⚡ Open Source Projects
+
+**Technologies:** Python • Linux • Bash • Git • GitHub
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/arcticfox-cyber)
+
+### Explore • Learn • Build • Secure
+
+</div>
