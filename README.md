@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="logo.png" width="100%" alt="silent-days Banner">
+  <img src="banner.png" width="100%" alt="silent-days Banner">
 </div>
 
 # Silent Days 
